@@ -1,6 +1,6 @@
 # Concurrent-computing
 
-Разработаем программу, симулирующую конкурентную работу. Данная программа доступна на GOLANG. Ищите курсовую - https://github.com/DEPTH-STRIDA/Concurrent-computing
+Разработаем программу, симулирующую конкурентную работу. Данная программа доступна на GOLANG. Ищите репозиторий - https://github.com/DEPTH-STRIDA/Concurrent-computing
 
 ## Введение
 
